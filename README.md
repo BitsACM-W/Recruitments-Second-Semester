@@ -1,1 +1,1 @@
-# Recruitments-Second-Semester
+# Second semester recruitments for ACM-W :rocket:
