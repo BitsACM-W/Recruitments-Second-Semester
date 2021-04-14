@@ -1,0 +1,33 @@
+Given the Wine Dataset, perform the following tasks with either Python or R (numpy, pandas etc. can be used):
+1. Perform dimesnionality reduction and narrow down the relevant features to the top 8 (construct a heat map as necessary to show the results
+   of the dimensionality reduction). You can use any one (must be implemented from scratch):
+   (a) Principal Component Analysis
+   (b) Singular Value Decomp.
+   (c) Fisher's Linear Discriminant
+   
+2. Use the most relevant features to classify the dataset. Either one can be used (from scratch implementation of the classifier model is not
+   required):
+   (a) Support Vector Machine
+   (b) K means clustering
+   (c) Naive Bayes
+   (d) Logistic Regression
+   
+3. Compare predicted class labels with the actual class labels (under 'name') and give accuracy score in the output
+
+Some helpful links:
+-> dimensionality reduction
+https://www.kaggle.com/arthurtok/interactive-intro-to-dimensionality-reduction
+-> classification
+https://www.kaggle.com/ryanholbrook/clustering-with-k-means
+https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_classification_algorithms_support_vector_machine.htm
+https://www.tutorialspoint.com/machine_learning_with_python/classification_algorithms_naive_bayes.htm
+https://www.kdnuggets.com/2020/03/linear-logistic-regression-explained.html
+
+Wine Dataset
+https://archive.ics.uci.edu/ml/datasets/wine
+
+
+
+
+   
+   
