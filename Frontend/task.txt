@@ -1,0 +1,7 @@
+Your task for recruitment is to design a landing page as shown in the video attached. Your styles may vary but the animations should broadly resemble and the main scrolling theme should be implemented properly. 
+You are free to use either plain HTML+CSS+JS or any framework of your choice. Write neat code because we would be expecting that.
+
+You can also refer to https://buzzworthystudio.com/ to check this animation out.
+
+Resources for frontend are as follows-
+https://www.notion.so/Resources-for-Frontend-6fc5097237e5496a93135f33d86c5ce3
